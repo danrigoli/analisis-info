@@ -1,0 +1,51 @@
+barrio,comuna,id
+Versalles,10.0,1
+Villa Devoto,11.0,2
+Mataderos,9.0,6
+Villa Luro,10.0,7
+Monte Castro,10.0,8
+Villa Urquiza,12.0,16
+Vélez Sársfield,10.0,19
+Saavedra,12.0,22
+Agronomía,15.0,24
+Villa Lugano,8.0,25
+Villa Del Parque,11.0,26
+Parque Avellaneda,9.0,28
+Floresta,10.0,30
+Villa Santa Rita,11.0,44
+Paternal,15.0,51
+Nuñez,13.0,52
+Villa Gral. Mitre,11.0,54
+Coghlan,12.0,58
+Flores,7.0,63
+Chacarita,15.0,75
+Belgrano,13.0,76
+Villa Soldati,8.0,82
+Caballito,6.0,83
+Parque Chacabuco,7.0,90
+Villa Crespo,15.0,95
+Palermo,14.0,97
+Colegiales,13.0,100
+Almagro,5.0,118
+Nueva Pompeya,4.0,119
+Boedo,5.0,125
+Balvanera,3.0,146
+Recoleta,2.0,147
+Parque Patricios,4.0,154
+San Cristóbal,3.0,169
+Barracas,4.0,173
+San Nicolás,1.0,187
+Constitución,1.0,194
+Retiro,1.0,197
+Monserrat,1.0,205
+San Telmo,1.0,213
+Puerto Madero,1.0,217
+Boca,4.0,224
+Liniers,9.0,232
+Villa Pueyrredón,12.0,251
+Villa Riachuelo,8.0,295
+Parque Chas,15.0,298
+Villa Ortuzar,15.0,302
+,,558
+Villa Real,10.0,1200
+La Boca,4.0,25764
