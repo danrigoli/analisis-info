@@ -1,5 +1,12 @@
-tipo,id
-Hurto (sin violencia),1
-Homicidio,2
-Robo (con violencia),3
-Lesiones,11
+tipo,subtipo,id
+Hurto (sin violencia),Robo,1
+Homicidio,Femicidio,2
+Robo (con violencia),Robo,3
+Lesiones,Siniestro Vial,4
+Robo (con violencia),Con uso de moto,5
+Hurto (sin violencia),Hurto Automotor,6
+Robo (con violencia),Robo Automotor,7
+Homicidio,Siniestro Vial,8
+Homicidio,Doloso,9
+Homicidio,Femicidio Intrafamiliar,10
+Homicidio,Travesticidio/Transfemicidio,11
